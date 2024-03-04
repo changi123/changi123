@@ -1,33 +1,33 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=33691e&height=300&section=header&text=Hong%20Chan%20Gi&fontSize=64&fontColor=c5e1a5&animtaion=fadeIn)
+_![header](https://capsule-render.vercel.app/api?type=waving&color=33691e&height=300&section=header&text=Hong%20Chan%20Gi&fontSize=64&fontColor=c5e1a5&animtaion=fadeIn)
 
 <h3 align="center">🛠 What I can do 👨🏻‍💻</h3>
 
 
 <!--======== 로고 ========-->
 <!-- backend -->
-
 <p align="center">
-  <p>Back-End</p>
-  <img src="https://img.shields.io/badge/java-007396.svg?style=for-the-badge&logo=java&logoColor=white" />
-  <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Badge">
-
+  <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
+  <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
+  <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white">
 </p>
+<!-- front -->  
 <p align="center">
-  <a href="https://developer.android.com"><img src="https://img.shields.io/badge/Android-3DDC84?style=flat&logo=Android&logoColor=white" /></a>
-  <a href="https://kotlinlang.org"><img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat&logo=Kotlin&logoColor=white" /></a>
-  <a href="https://java.com"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/thymeleaf-005F0F?style=for-the-badge&logo=thymeleaf&logoColor=white">
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
+  <img src="https://img.shields.io/badge/jquery-0769AD?style=for-the-badge&logo=jquery&logoColor=white">
+  <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
+  <img src="https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/react-444444?style=for-the-badge&logo=react">
 </p>
+<!-- 개발환경 & DataBase --> 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white" />
-  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=C%2B%2B&logoColor=white" />
-  <a href="https://unity.com"><img src="https://img.shields.io/badge/Unity-000000?style=flat&logo=Unity&logoColor=white" /></a>
-  <a href="https://flutter.dev"><img src="https://img.shields.io/badge/Flutter-02569B?style=flat&logo=Flutter&logoColor=white" /></a>
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=CSS3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat&logo=Node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=MySQL&logoColor=white" />
+  <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/eclipse ide-2C2255?style=for-the-badge&logo=eclipseide&logoColor=white"> 
+  <img src="https://img.shields.io/badge/visualstudiocode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"> 
+  <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> 
+  <img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"> 
 </p>
 <br>
 
@@ -180,3 +180,4 @@
   * Swift Playground
   
 <br>
+_
