@@ -6,7 +6,7 @@ _![header](https://capsule-render.vercel.app/api?type=waving&color=33691e&height
 <!--======== 로고 ========-->
 <!-- backend -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=junit5&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/junit5-25A162?style=for-the-badge&logo=junit5&logoColor=white">
   <img src="https://img.shields.io/badge/spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
