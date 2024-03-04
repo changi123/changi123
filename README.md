@@ -2,7 +2,7 @@
 <!-- text띄어쓰기 : %20 -->
 <!-- 폰트색 : 스노우색 &fontColor=FFFAFA -->
 
-![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=215&section=header&text=Taek's%20Github&fontAlign=78&fontAlignY=46&fontSize=40&desc=Hello&descSize=90&descAlign=88&descAlignY=-20&rotate=14&stroke=6600CC&fontColor=FFFAFA&animation=blink)
+![header](https://capsule-render.vercel.app/api?type=slice&color=auto&height=215&section=header&text=changi123%20Github&fontAlign=78&fontAlignY=46&fontSize=40&desc=Hello&descSize=90&descAlign=88&descAlignY=-20&rotate=14&stroke=6600CC&fontColor=FFFAFA&animation=blink)
 
 <!-- 가장많이 사용하는 언어 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kytcook&layout=compact)](https://github.com/kytcook/github-readme-stats)
@@ -31,7 +31,7 @@
 <br />
     
 <!-- Github Stats -->
-![kytcook's GitHub stats](https://github-readme-stats.vercel.app/api?username=kytcook&show_icons=true&theme=tokyonight)
+![kytcook's GitHub stats](https://github-readme-stats.vercel.app/api?username=changi123&show_icons=true&theme=tokyonight)
   
 <!--======== 로고 ========-->
 <!-- backend -->
