@@ -57,20 +57,17 @@ _![header](https://capsule-render.vercel.app/api?type=waving&color=33691e&height
 <br><br>
 
 ## 수상실적
+🥇 2024.02 | **신한 DS 금융 SW 아카데미 프로젝트 발표회** (최우수상)
+<br>
 
-<br>🏅 2023.05 | **WWDC23 Swift Student Challenge Winner**
-<br>🥇 2022.09 | **제 9회 대한민국 SW융합 해커톤 대회** (대상)
-<br>🥈 2023.09 | **제 10회 대한민국 SW융합 해커톤 대회** (우수상)
-<br>🥇 2022.12 | **더존 모바일 개발자 과정 프로젝트 발표회** (최우수상)
-<br>🥈 2022.05 | **2022년 1학기 SW캡스톤디자인 경진대회** (금상)
-<br>🥈 2021.08 | **방학? 놀면 뭐하니? 오픈소스SW 개발 공모전** (은상)
 
 
 <br><br>
 
+<!--
 ## 대표 프로젝트
 
-<a href="https://github.com/mgdgc/deepseat">
+<a href="https://github.com/changi123">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=deepseat" />
 </a>
 
@@ -83,93 +80,5 @@ _![header](https://capsule-render.vercel.app/api?type=waving&color=33691e&height
 
 <br>
 
-<a href="https://github.com/mgdgc/mgchoi-com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=mgchoi-com" />
-</a>
+-->
 
-* <https://mgchoi.com> 포트폴리오 사이트
-* 개발 기간: 2022.11 ~ 2023.01
-* 담당
-  * Nodejs 기반으로 프로젝트 변경
-
-<br>
-
-<a href="https://github.com/mgdgc/old-mgchoi-com">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=old-mgchoi-com" />
-</a>
-
-* <https://mgchoi.com> 포트폴리오 사이트
-* 개발 기간: 2022.6 ~ 2022.10
-* 담당
-  * Spring Boot 개발
-  
-<br>
-
-<a href="https://github.com/mgdgc/kanggo-pocket-android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=kanggo-pocket-android" />
-</a>
-<a href="https://github.com/mgdgc/kanggo-pocket-ios">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=kanggo-pocket-ios" />
-</a>
-
-* 강원고등학교 시간표 애플리케이션
-* 개발 기간: 2015.02 ~2020.12
-* 담당
-  * 안드로이드 애플리케이션 개발
-  * iOS 애플리케이션 개발
-  * JSP 웹 애플리케이션 개발
-  
-<br>
-<a href="https://github.com/mgdgc/smart-portfolio-android">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=smart-portfolio-android" />
-</a>
-
-* 스마트 포트폴리오 애플리케이션 (모바일 프로그래밍 기업체 과제)
-* 개발 기간: 2022.08 ~ 2022.08
-* 담당
-  * 안드로이드 애플리케이션 개발
-  
-<br>
-<a href="https://github.com/mgdgc/hallym-map">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=hallym-map" />
-</a>
-
-* 한림대학교 캠퍼스 맵 애플리케이션
-* 개발 기간: 2021.06 ~ 2021.08
-* 담당
-  * 안드로이드 애플리케이션 개발
-  
-<br>
-<a href="https://github.com/mgdgc/word-counter-2">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=word-counter-2" />
-</a>
-
-* 글자 수 카운팅 iOS 애플리케이션
-* 개발 기간: 2023.04 ~ 2023.05
-* 담당
-  * iOS 애플리케이션 개발
-  
-<br>
-<a href="https://github.com/mgdgc/paste-wallet">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=paste-wallet" />
-</a>
-
-* 카드 및 계좌번호 지갑 iOS 애플리케이션
-* 개발 기간: 2023.04 ~ 2023.05
-* 담당
-  * iOS 애플리케이션 개발
-  
-<br>
-
-<a href="https://github.com/mgdgc/earth-debugger">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=earth-debugger" />
-</a>
-
-* 아픈 지구를 코딩으로 치료하자! 코딩 교육 앱
-* **WWDC 2023 Swift Student Challenge** Winner
-* 개발 기간: 2023.04 ~ 2023.05
-* 담당
-  * Swift Playground
-  
-<br>
-_
