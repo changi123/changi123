@@ -45,24 +45,15 @@ _![header](https://capsule-render.vercel.app/api?type=waving&color=33691e&height
 
 <br><br>
 ## 링크
-* Portfolio: <https://mgchoi.com>
-* email: [soc06212@gmail.com](mailto:soc06212@gmail.com)
-* GitHub: <https://github.com/mgdgc/>
+* email: [hcghcg17@naver.com](mailto:hcghcg17@naver.com)
+* GitHub: <https://github.com/changi123/>
   
 
 <br><br>
 
 ## 경험
-  * RiDsoft (2012 ~ Now)
-  * 대룡중학교 코딩동아리 DAC 창설 (2014 ~ 2015)
-  * 강원고등학교 코딩동아리 Apphabet 창설 (2015 ~ 2018)
-  * 한림대학교 소프트웨어융합대학 재학중 (2018 ~ Now)
-  * 한림대학교 중앙동아리 CHAOS (2018 ~ 2019)
-  * 한림대학교 소프트웨어융합대학 동아리 씨애랑 (2021 ~ Now)
-    * 라떼팀 (2021~2022)
-    * 라떼팀 팀장 (2022~)
-  * **Apple Developer Academy @Postech 2기 (2023)**
-
+  * 쌍용교육센터 Java-Full-Stack 개발자 양성과정 수료 (2023.01 ~ 2023.07)
+  * 신한 DS 금융 SW 아카데미 수료 (2023.08 ~ 2024.02)
 <br><br>
 
 ## 수상실적
