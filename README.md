@@ -77,3 +77,16 @@
 
 <br>
 
+<a href="https://github.com/I-Sfin/ISfin-BackEnd">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=changi123&repo=ISfin-BackEnd" />
+</a>
+
+* 카메라 기반 빈 좌석 탐지 애플리케이션
+* 개발 기간: 2022.02 ~ 2022.05
+* 담당
+  * 애플리케이션 디자인
+  * 안드로이드 애플리케이션 개발
+  * Spring 백엔드 서버 개발
+
+<br>
+
