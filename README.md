@@ -72,10 +72,20 @@
 * 개발 기간: 2023.11 ~ 2024.01
 * 담당
   * 로그인 / 회원가입 Back-end AND Front-end 기능 구현
-  * 마이페이지 기능 구현
+  * 마이페이지 Back-end AND Front-end 기능 구현
   * 다음 openAPI를 활용하여 배송지 등록 및 관리 구현
-
 <br>
 
+<a href="https://github.com/changi123/JSP-Servlet_Project">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=changi123&repo=JSP-Servlet_Project" />
+</a>
+
+* 중고사이트 번개장터 카피 구현
+* 개발 기간: 2023.05 ~ 2023.06
+* 담당
+  * 로그인 / 회원가입 Back-end 기능 구현
+  * 내 상점 관리 기능 구현
+  * 상품 판매하기 기능 구현
+<br>
 
 
