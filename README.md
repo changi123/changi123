@@ -64,8 +64,8 @@
 
 ## 대표 프로젝트
 
-<a href="https://github.com/changi123">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mgdgc&repo=deepseat" />
+<a href="https://github.com/changi123/9dorak">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=changi123&repo=9dorak" />
 </a>
 
 * 카메라 기반 빈 좌석 탐지 애플리케이션
