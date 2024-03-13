@@ -61,7 +61,7 @@
 <br>
 <br>
 
-<!--
+
 ## 대표 프로젝트
 
 <a href="https://github.com/changi123">
@@ -76,6 +76,4 @@
   * Spring 백엔드 서버 개발
 
 <br>
-
--->
 
