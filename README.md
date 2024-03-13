@@ -68,25 +68,14 @@
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=changi123&repo=9dorak" />
 </a>
 
-* 카메라 기반 빈 좌석 탐지 애플리케이션
-* 개발 기간: 2022.02 ~ 2022.05
+* 아이를 위한 9일의 약속, 구도락 서비스
+* 개발 기간: 2023.11 ~ 2024.01
 * 담당
-  * 애플리케이션 디자인
-  * 안드로이드 애플리케이션 개발
-  * Spring 백엔드 서버 개발
+  * 로그인 / 회원가입 기능 구현
+  * 마이페이지 기능 구현
+  * 다음 openAPI를 활용하여 배송지 등록 및 관리 구현
 
 <br>
 
-<a href="https://github.com/I-Sfin/ISfin-BackEnd">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=changi123&repo=ISfin-BackEnd" />
-</a>
 
-* 카메라 기반 빈 좌석 탐지 애플리케이션
-* 개발 기간: 2022.02 ~ 2022.05
-* 담당
-  * 애플리케이션 디자인
-  * 안드로이드 애플리케이션 개발
-  * Spring 백엔드 서버 개발
-
-<br>
 
