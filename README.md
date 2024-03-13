@@ -1,5 +1,3 @@
-<! -- _![header](https://capsule-render.vercel.app/api?type=waving&color=33691e&height=300&section=header&text=Hong%20Chan%20Gi&fontSize=64&fontColor=c5e1a5&animtaion=fadeIn) -->
-
 <h3 align="center">🛠 What I can do 👨🏻‍💻</h3>
 
 
