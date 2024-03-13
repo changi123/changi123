@@ -45,14 +45,16 @@ _![header](https://capsule-render.vercel.app/api?type=waving&color=33691e&height
 
 <br><br>
 ## 링크
-* email: [hcghcg17@naver.com](mailto:hcghcg17@naver.com)
-* GitHub: <https://github.com/changi123/>
+**email: [hcghcg17@naver.com](mailto:hcghcg17@naver.com)**
+<br/>
+**GitHub: <https://github.com/changi123/>**
   
 
 <br><br>
 
 ## 경험
 **쌍용교육센터 Java-Full-Stack 개발자 양성과정 수료 (2023.01 ~ 2023.07)**
+<br/>
 **신한 DS 금융 SW 아카데미 수료 (2023.08 ~ 2024.02)**
 <br><br>
 
