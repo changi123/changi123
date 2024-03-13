@@ -36,7 +36,7 @@
 
 
 ## Github Status
-<br><br>
+<br>
 <a href="https://github.com/changi123">
     <img src="https://github-readme-stats.vercel.app/api?username=changi123&count_private=true&show_icons=true"/>
   </a>
@@ -44,30 +44,22 @@
   <a href="https://github.com/changi123">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changi123&layout=compact&hide=javascript,html,scss" />
   </a>
+<br>
 
-
-<br><br>
 ## 링크
 **email: [hcghcg17@naver.com](mailto:hcghcg17@naver.com)**
 <br/>
 **GitHub: <https://github.com/changi123/>**
-  
-
-<br><br>
-
+<br>
 ## 경험
 **쌍용교육센터 Java-Full-Stack 개발자 양성과정 수료 (2023.01 ~ 2023.07)**
 <br/>
 **신한 DS 금융 SW 아카데미 수료 (2023.08 ~ 2024.02)**
-<br><br>
-
+<br>
 ## 수상실적
 **🥇 2024.02 | 신한 DS 금융 SW 아카데미 프로젝트 발표회 (최우수상)**
 <br>
-
-
-
-<br><br>
+<br>
 
 <!--
 ## 대표 프로젝트
