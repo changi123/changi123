@@ -50,8 +50,7 @@
 <br/>
 **GitHub: <https://github.com/changi123/>**
 <br/>
-**Instagram: <https://www.instagram.com/changi_gg/>**
-<br>
+
 ## 경험
 **쌍용교육센터 Java-Full-Stack 개발자 양성과정 수료 (2023.01 ~ 2023.07)**
 <br/>
