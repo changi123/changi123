@@ -36,9 +36,7 @@
 
 ## Github Status
 <br>
-<a href="https://github.com/changi123">
-    <img src="https://github-readme-stats.vercel.app/api?username=changi123&count_private=true&show_icons=true"/>
-  </a>
+
   <br><br>
   <a href="https://github.com/changi123">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changi123&layout=compact&hide=javascript,html,scss" />
