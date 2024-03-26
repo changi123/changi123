@@ -61,10 +61,10 @@
 ## 대표 프로젝트
 
 <a href="https://github.com/I-Sfin">
- <img src="https://avatars.githubusercontent.com/u/157471821?s=200&v=4"  width="100" heigth = "100" /> 
+ <img src="https://avatars.githubusercontent.com/u/157471821?s=200&v=4"  width="150" heigth = "150" /> 
 </a>
 
-* 아이의 경제교육을 위한 카드 I-Sfin
+* 아이의 경제교육을 위한 카드 I-Sfin ( 이미지 클릭 시 이동 ) 
 * 개발 기간: 2023.11 ~ 2024.01
 * 담당
   * **로그인 / 회원가입 Back-end AND Front-end 기능 구현**
@@ -75,10 +75,10 @@
 
 
 <a href="https://github.com/changi123/9dorak">
-  <img src="https://github.com/changi123/changi123/assets/133079671/94865e16-3f42-40e0-ad6f-2195c6b7827a"  width="100" heigth = "100" />
+  <img src="https://github.com/changi123/changi123/assets/133079671/94865e16-3f42-40e0-ad6f-2195c6b7827a"  width="150" heigth = "150" />
 </a>
 
-* 아이를 위한 9일의 약속, 구도락 서비스
+* 아이를 위한 9일의 약속, 구도락 서비스 ( 이미지 클릭 시 이동 ) 
 * 개발 기간: 2023.11 ~ 2024.01
 * 담당
   * **로그인 / 회원가입 Back-end AND Front-end 기능 구현**
@@ -87,10 +87,10 @@
 <br>
 
 <a href="https://github.com/changi123/JSP-Servlet_Project">
-  <img src="https://play-lh.googleusercontent.com/_gp-eWsqbTR5GvMXnHCIxEazoLPQSlHY4Uv-ZQln0jYsUSRReQb_fzpNwKbhd82R6-4=w240-h480-rw"  width="100" heigth = "100"/>
+  <img src="https://play-lh.googleusercontent.com/_gp-eWsqbTR5GvMXnHCIxEazoLPQSlHY4Uv-ZQln0jYsUSRReQb_fzpNwKbhd82R6-4=w240-h480-rw"  width="150" heigth = "150"/>
 </a>
 
-* 중고사이트 번개장터 카피 구현
+* 중고사이트 번개장터 카피 구현 ( 이미지 클릭 시 이동 ) 
 * 개발 기간: 2023.05 ~ 2023.06
 * 담당
   * **로그인 / 회원가입 Back-end 기능 구현**
