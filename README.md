@@ -87,7 +87,7 @@
 <br>
 
 <a href="https://github.com/changi123/JSP-Servlet_Project">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=changi123&repo=JSP-Servlet_Project" />
+  <img src="https://play-lh.googleusercontent.com/_gp-eWsqbTR5GvMXnHCIxEazoLPQSlHY4Uv-ZQln0jYsUSRReQb_fzpNwKbhd82R6-4=w240-h480-rw" />
 </a>
 
 * 중고사이트 번개장터 카피 구현
