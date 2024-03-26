@@ -61,7 +61,7 @@
 ## 대표 프로젝트
 
 <a href="https://github.com/I-Sfin">
- <img src="https://avatars.githubusercontent.com/u/157471821?s=200&v=4" /> 
+ <img src="https://avatars.githubusercontent.com/u/157471821?s=200&v=4"  width="200" heigth = "200" /> 
 </a>
 
 * 아이의 경제교육을 위한 카드 I-Sfin
@@ -75,7 +75,7 @@
 
 
 <a href="https://github.com/changi123/9dorak">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=changi123&repo=9dorak" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=changi123&repo=9dorak"  width="200" heigth = "200" />
 </a>
 
 * 아이를 위한 9일의 약속, 구도락 서비스
@@ -87,7 +87,7 @@
 <br>
 
 <a href="https://github.com/changi123/JSP-Servlet_Project">
-  <img src="https://play-lh.googleusercontent.com/_gp-eWsqbTR5GvMXnHCIxEazoLPQSlHY4Uv-ZQln0jYsUSRReQb_fzpNwKbhd82R6-4=w240-h480-rw" />
+  <img src="https://play-lh.googleusercontent.com/_gp-eWsqbTR5GvMXnHCIxEazoLPQSlHY4Uv-ZQln0jYsUSRReQb_fzpNwKbhd82R6-4=w240-h480-rw"  width="200" heigth = "200"/>
 </a>
 
 * 중고사이트 번개장터 카피 구현
