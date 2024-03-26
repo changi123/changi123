@@ -60,6 +60,20 @@
 
 ## 대표 프로젝트
 
+<a href="https://github.com/I-Sfin">
+ <-- <img src="https://github-readme-stats.vercel.app/api/pin/?username=changi123&repo=9dorak" /> -->
+</a>
+
+* 아이의 경제교육을 위한 카드 I-Sfin
+* 개발 기간: 2023.11 ~ 2024.01
+* 담당
+  * **로그인 / 회원가입 Back-end AND Front-end 기능 구현**
+  * **마이페이지 Back-end AND Front-end 기능 구현**
+  * **부모가 만드는 오늘의 미션 구현 및 카드 리워드 지급 Back-end AND Front-end 기능 구현**
+<br>
+
+
+
 <a href="https://github.com/changi123/9dorak">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=changi123&repo=9dorak" />
 </a>
