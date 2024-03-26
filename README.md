@@ -63,7 +63,7 @@
 <a href="https://github.com/I-Sfin">
  <img src="https://avatars.githubusercontent.com/u/157471821?s=200&v=4"  width="150" heigth = "150" /> 
 </a>
-( 이미지 클릭 시 이동 )
+* ( 이미지 클릭 시 이동 )
 * 아이의 경제교육을 위한 카드 I-Sfin 
 * 개발 기간: 2023.11 ~ 2024.01
 * 담당
@@ -77,7 +77,7 @@
 <a href="https://github.com/changi123/9dorak">
   <img src="https://github.com/changi123/changi123/assets/133079671/94865e16-3f42-40e0-ad6f-2195c6b7827a"  width="150" heigth = "150"  />
 </a>
-( 이미지 클릭 시 이동 ) 
+* ( 이미지 클릭 시 이동 ) 
 * 아이를 위한 9일의 약속, 구도락 서비스
 * 개발 기간: 2023.11 ~ 2024.01
 * 담당
@@ -89,7 +89,7 @@
 <a href="https://github.com/changi123/JSP-Servlet_Project">
   <img src="https://play-lh.googleusercontent.com/_gp-eWsqbTR5GvMXnHCIxEazoLPQSlHY4Uv-ZQln0jYsUSRReQb_fzpNwKbhd82R6-4=w240-h480-rw"  width="150" heigth = "150"/>
 </a>
-( 이미지 클릭 시 이동 ) 
+* ( 이미지 클릭 시 이동 ) 
 * 중고사이트 번개장터 카피 구현 
 * 개발 기간: 2023.05 ~ 2023.06
 * 담당
