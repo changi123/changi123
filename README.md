@@ -107,10 +107,11 @@
 ---
 ## 상반기 취준 이후 기록
 <a href="https://velog.io/@changi_gg/posts">
-  <img src="https://github.com/changi123/changi123/assets/133079671/c05ba637-f40e-452f-8483-a50338d8d361"  width="150" heigth = "50"/>
+  <img src="https://github.com/changi123/changi123/assets/133079671/bdfdceff-3206-4faf-8630-ec131b81a104"  width="150" heigth = "150"/>
 </a>
 </br>
 * ( 이미지 클릭 시 이동 )
 * velog 기록 -> https://velog.io/@changi_gg/posts
+
 
 
