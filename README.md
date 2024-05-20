@@ -103,7 +103,8 @@
   * **상품 판매하기 기능 구현**
 <br>
 
-상반기 취준 이후
+상반기 취준 이후 기록
+
 <a href="https://velog.io/@changi_gg/posts">
   <img src="https://github.com/changi123/changi123/assets/133079671/ce821641-1629-4ce5-b81e-2389e8caf29f"  width="150" heigth = "150"/>
 </a>
