@@ -72,11 +72,8 @@
   * **로그인 / 회원가입 Back-end AND Front-end 기능 구현**
   * **마이페이지 Back-end AND Front-end 기능 구현**
   * **부모가 만드는 오늘의 미션 구현 및 카드 리워드 지급 Back-end AND Front-end 기능 구현**
-<br>
 
 ---
-
-
 
 <a href="https://github.com/changi123/9dorak">
   <img src="https://github.com/changi123/changi123/assets/133079671/94865e16-3f42-40e0-ad6f-2195c6b7827a"  width="150" heigth = "150"  />
@@ -89,10 +86,8 @@
   * **로그인 / 회원가입 Back-end AND Front-end 기능 구현**
   * **마이페이지 Back-end AND Front-end 기능 구현**
   * **다음 openAPI를 활용하여 배송지 등록 및 관리 구현**
-<br>
 
 ---
-
 
 <a href="https://github.com/changi123/JSP-Servlet_Project">
   <img src="https://play-lh.googleusercontent.com/_gp-eWsqbTR5GvMXnHCIxEazoLPQSlHY4Uv-ZQln0jYsUSRReQb_fzpNwKbhd82R6-4=w240-h480-rw"  width="150" heigth = "150"/>
@@ -105,14 +100,13 @@
   * **로그인 / 회원가입 Back-end 기능 구현**
   * **내 상점 관리 기능 구현**
   * **상품 판매하기 기능 구현**
-<br>
 
 ---
 
 상반기 취준 이후 기록
 
 <a href="https://velog.io/@changi_gg/posts">
-  <img src="https://github.com/changi123/changi123/assets/133079671/c05ba637-f40e-452f-8483-a50338d8d361"  width="150" heigth = "150"/>
+  <img src="https://github.com/changi123/changi123/assets/133079671/c05ba637-f40e-452f-8483-a50338d8d361"  width="150" heigth = "100"/>
 </a>
 
 * ( 이미지 클릭 시 이동 )
