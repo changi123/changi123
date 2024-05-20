@@ -112,7 +112,7 @@
 
 ---
 
-**상반기 취준이후 기록**
+**상반기 취준(2024/02/29 ~ 2024/05/19) 이후 기록 ★★★**
 
 <a href="https://velog.io/@changi_gg/posts">
   <img src="https://github.com/changi123/changi123/assets/133079671/bdfdceff-3206-4faf-8630-ec131b81a104"  width="150" heigth = "200"/>
