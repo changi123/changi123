@@ -74,6 +74,7 @@
   * **부모가 만드는 오늘의 미션 구현 및 카드 리워드 지급 Back-end AND Front-end 기능 구현**
 <br>
 
+---
 
 
 
@@ -89,6 +90,9 @@
   * **마이페이지 Back-end AND Front-end 기능 구현**
   * **다음 openAPI를 활용하여 배송지 등록 및 관리 구현**
 <br>
+
+---
+
 
 <a href="https://github.com/changi123/JSP-Servlet_Project">
   <img src="https://play-lh.googleusercontent.com/_gp-eWsqbTR5GvMXnHCIxEazoLPQSlHY4Uv-ZQln0jYsUSRReQb_fzpNwKbhd82R6-4=w240-h480-rw"  width="150" heigth = "150"/>
@@ -111,6 +115,6 @@
   <img src="https://github.com/changi123/changi123/assets/133079671/ce821641-1629-4ce5-b81e-2389e8caf29f"  width="150" heigth = "150"/>
 </a>
 
-
 * ( 이미지 클릭 시 이동 )
+* velog 기록 -> https://velog.io/@changi_gg/posts
 
