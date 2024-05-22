@@ -31,9 +31,7 @@
 </p>
 <br>
 
---## BaekJoon
--- [![Solved.ac
---프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hcghcg17)](https://solved.ac/hcghcg17)
+
 
 ## Github Status
 <br>
