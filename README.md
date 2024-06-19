@@ -75,7 +75,7 @@
 <br>
 
 * ( 이미지 클릭 시 이동 )
-* 아이의 경제교육을 위한 카드 I-Sfin ( SpringBoot )
+* 아이의 경제교육을 위한 카드 I-Sfin ( SpringBoot / React / MySQL / JPA )
 * 개발 기간: 2024.01 ~ 2024.02
 * 담당
   * **로그인 / 회원가입 Back-end AND Front-end 기능 구현**
@@ -91,7 +91,7 @@
 <br>
 
 * ( 이미지 클릭 시 이동 )
-* 아이를 위한 9일의 약속, 구도락 서비스 ( SpringFramework )
+* 아이를 위한 9일의 약속, 구도락 서비스 ( SpringFramework / Oracle / Mybatis)
 * 개발 기간: 2023.11 ~ 2024.01
 * 담당
   * **로그인 / 회원가입 Back-end AND Front-end 기능 구현**
