@@ -120,10 +120,6 @@
 ---
 
 **2024.05.19 이후 velog 기록**
-<br>
-**알고리즘 문제풀이 / 공부 정리**
-
-
 <a href="https://velog.io/@changi_gg/posts">
   <img src="https://github.com/changi123/changi123/assets/133079671/85833525-f679-4dc1-9a75-662fe622a4e0"  width="150" heigth = "150"/>
 </a>
@@ -131,6 +127,7 @@
 
 * ( 이미지 클릭 시 이동 )
 * velog 기록 -> https://velog.io/@changi_gg/posts
+* 알고리즘 문제풀이 / 공부 정리
 
 
 
