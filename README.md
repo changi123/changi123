@@ -53,6 +53,8 @@
 ## 링크
 **Email: [hcghcg17@naver.com](mailto:hcghcg17@naver.com)**
 <br/>
+**SNS: <https://www.instagram.com/changi_gg/>**
+<br/>
 **GitHub: <https://github.com/changi123/>**
 <br/>
 **velog: <https://velog.io/@changi_gg/posts>**
