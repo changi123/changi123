@@ -1,8 +1,6 @@
 <h3 align="center">🛠 What I can do 👨🏻‍💻</h3>
 
 
-
-
 <!--======== 로고 ========-->
 <!-- backend -->
 <p align="center">
