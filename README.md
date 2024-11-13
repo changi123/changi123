@@ -129,6 +129,3 @@
 * ( 이미지 클릭 시 이동 )
 * velog 기록 -> https://velog.io/@changi_gg/posts
 * 알고리즘 문제풀이 / 공부 정리
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?changi123=anuraghazra&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
-
