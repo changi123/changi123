@@ -74,10 +74,11 @@
 
 ## 대표 프로젝트
 <a href="https://github.com/changi123/isfin-app">
- <img src="https://github.com/user-attachments/assets/c1542b8d-970b-49ad-889e-ea57b15ec895"  width="150" heigth = "150" /> 
+ <img src="https://github.com/user-attachments/assets/c1542b8d-970b-49ad-889e-ea57b15ec895"  width="100" heigth = "100" /> 
 </a>
 <br>
 
+* ( 이미지 클릭 시 이동 )
 * 개인 프로젝트
 * 웹앱프로젝트 Isfin -> React native + Android Studio 활용해서 앱으로 변환하기
 ---
