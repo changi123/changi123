@@ -73,6 +73,14 @@
 
 
 ## 대표 프로젝트
+<a href="https://github.com/changi123/isfin-app">
+ <img src="https://github.com/user-attachments/assets/c1542b8d-970b-49ad-889e-ea57b15ec895"  width="150" heigth = "150" /> 
+</a>
+<br>
+
+* 개인 프로젝트
+* 웹앱프로젝트 Isfin -> React native + Android Studio 활용해서 앱으로 변환하기
+---
 
 <a href="https://github.com/I-Sfin">
  <img src="https://avatars.githubusercontent.com/u/157471821?s=200&v=4"  width="150" heigth = "150" /> 
