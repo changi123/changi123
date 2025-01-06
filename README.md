@@ -77,7 +77,7 @@
 
 
 <a href="https://github.com/changi123/study">
- <img src="https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c"  width="100" heigth = "100" /> 
+ <img src="https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c"  width="300" heigth = "300" /> 
 </a>
 
 * ( 이미지 클릭 시 이동 )
