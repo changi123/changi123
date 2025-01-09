@@ -83,6 +83,7 @@
 * ( 이미지 클릭 시 이동 )
 * 개인 프로젝트
 * Spring + Mybatis 복습 + 영어 공부 프로그램 만들기
+*  개발 기간 : 2025.01 ~ 
 * <a href="https://well-deadly-pika.ngrok-free.app/"> ngrok를 활용해 임시 배포 클릭 ✈</a>
 <br>
 
@@ -94,6 +95,7 @@
 * ( 이미지 클릭 시 이동 )
 * 개인 프로젝트
 * 웹앱프로젝트 Isfin -> React native + Android Studio 활용해서 앱으로 변환하기
+* 개발 기간 : 2024.11 ~ 2024.12
 ---
 
 <a href="https://github.com/I-Sfin">
