@@ -82,9 +82,9 @@
 
 * ( 이미지 클릭 시 이동 )
 * 개인 프로젝트
-* Spring + Mybatis 복습 + 영어 공부 프로그램 만들기
+* Spring + Mybatis + 영어 공부 프로그램 만들기
 *  개발 기간 : 2025.01 ~ 
-* <a href="https://well-deadly-pika.ngrok-free.app/"> ngrok를 활용해 임시 배포 클릭 ✈</a>
+* <a href="https://well-deadly-pika.ngrok-free.app/"> ngrok를 활용해 임시 포워딩 클릭 후 visit클릭 ✈</a>
 <br>
 
 <a href="https://github.com/changi123/isfin-app">
