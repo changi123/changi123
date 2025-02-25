@@ -72,7 +72,8 @@
 <br>
 <br>
 
-## 대표 프로젝트 ( 취업 준비 기간 )
+
+## 대표 프로젝트
 
 <a href="https://github.com/changi123/study">
  <img src="https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c"  width="200" heigth = "200" /> 
@@ -100,9 +101,6 @@
 </a>
 
 <br>
-
-## 대표 프로젝트 ( 쌍용교육센터 + 신한 DS 금융 SW 아카데미 )
-
 * ( 이미지 클릭 시 이동 )
 * 아이의 경제교육을 위한 카드 I-Sfin ( SpringBoot / React / MySQL / JPA )
 * 개발 기간: 2024.01 ~ 2024.02
