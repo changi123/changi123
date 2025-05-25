@@ -32,6 +32,7 @@
   <img src="https://img.shields.io/badge/gradle-02303A?style=for-the-badge&logo=gradle&logoColor=white"> 
   <img src="https://img.shields.io/badge/apachemaven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white"> 
 </p>
+
 <br>
 
 ## BaekJoon
@@ -39,10 +40,13 @@
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=hcghcg17)](https://solved.ac/hcghcg17)
 
 ## Github Status
+
 <br>
+
   <a href="https://github.com/changi123">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=changi123&layout=compact&hide=javascript,html,scss" />
   </a>
+  
 <br>
 
 ## 링크
@@ -67,6 +71,7 @@
 <br>
 ## 수상실적
 **🥇 2024.02 | 신한 DS 금융 SW 아카데미 프로젝트 발표회 (최우수상)**
+
 <br>
 
 
@@ -89,10 +94,12 @@
 <a href="https://github.com/changi123/study">
  <img src="https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c"  width="200" heigth = "200" /> 
 </a>
+
 * ( 이미지 클릭 시 이동 )
 * 개인 프로젝트
 * Spring + Mybatis + 영어 공부 프로그램 만들기
 *  개발 기간 : 2025.01 ~ 2025.02
+
 <br>
 
 ---
@@ -161,6 +168,7 @@
 <a href="https://velog.io/@changi_gg/posts">
   <img src="https://github.com/changi123/changi123/assets/133079671/85833525-f679-4dc1-9a75-662fe622a4e0"  width="150" heigth = "150"/>
 </a>
+
 <br>
 
 * ( 이미지 클릭 시 이동 )
