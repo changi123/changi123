@@ -83,6 +83,7 @@
 * 🎬 오늘 뭐 볼까? 기분 기반 영화 추천 웹앱 - ViewPick
 *  개발 기간 : 2025.05 ~ 2025.05
 <br>
+
 ---
 
 <a href="https://github.com/changi123/study">
@@ -94,6 +95,7 @@
 * Spring + Mybatis + 영어 공부 프로그램 만들기
 *  개발 기간 : 2025.01 ~ 2025.02
 <br>
+
 ---
 
 <a href="https://github.com/changi123/isfin-app">
@@ -105,6 +107,7 @@
 * 개인 프로젝트
 * 웹앱프로젝트 Isfin -> React native + Android Studio 활용해서 앱으로 변환하기
 * 개발 기간 : 2024.11 ~ 2024.12
+* 
 ---
 
 <a href="https://github.com/I-Sfin">
