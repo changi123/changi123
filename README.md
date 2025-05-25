@@ -107,7 +107,7 @@
 * 개인 프로젝트
 * 웹앱프로젝트 Isfin -> React native + Android Studio 활용해서 앱으로 변환하기
 * 개발 기간 : 2024.11 ~ 2024.12
-* 
+
 ---
 
 <a href="https://github.com/I-Sfin">
@@ -119,11 +119,10 @@
 * 아이의 경제교육을 위한 카드 I-Sfin ( SpringBoot / React / MySQL / JPA )
 * 개발 기간: 2024.01 ~ 2024.02
 * 담당
-
   * **로그인 / 회원가입 Back-end AND Front-end 기능 구현**
   * **마이페이지 Back-end AND Front-end 기능 구현**
   * **부모가 만드는 오늘의 미션 구현 및 카드 리워드 지급 Back-end AND Front-end 기능 구현**
-
+  
 ---
 
 <a href="https://github.com/changi123/9dorak">
