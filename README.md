@@ -94,7 +94,7 @@
 </a><br/>
 <b>🎬 오늘 뭐 볼까? 기분 기반 영화 추천 웹앱 - ViewPick</b><br/>
 <b>개인 프로젝트</b><br/>
-<b>🖥 배포 주소: https://viewpick-web.web.app//</b><br/>
+<b>🖥 배포 주소: https://viewpick-web.web.app/</b><br/>
 개발 기간: 2025.05 ~ 2025.05
 
 ---
