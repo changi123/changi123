@@ -74,15 +74,11 @@
 <br>
 
 
---- 
-
 ## 프로젝트 
 
 | <a href="https://github.com/changi123/viewpick"><img src="https://github.com/user-attachments/assets/d1077025-470f-4978-ba9b-7c278f996237" width="200" /></a> | <a href="https://github.com/changi123/study"><img src="https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c" width="200" /></a> |
 | --- | --- |
 | ( 이미지 클릭 시 이동 )<br> 개인 프로젝트<br> 🎬 오늘 뭐 볼까? 기분 기반 영화 추천 웹앱 - ViewPick<br> 개발 기간 : 2025.05 ~ 2025.05 | ( 이미지 클릭 시 이동 )<br> 개인 프로젝트<br> Spring + Mybatis + 영어 공부 프로그램 만들기<br> 개발 기간 : 2025.01 ~ 2025.02 |
-
----
 
 
 ---
