@@ -78,76 +78,22 @@
 
 ## 프로젝트
 
-<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
-
-  <div style="width: 45%; text-align: center;">
-    <a href="https://github.com/changi123/viewpick">
-      <img src="https://github.com/user-attachments/assets/d1077025-470f-4978-ba9b-7c278f996237" alt="ViewPick" style="width: 100%; max-width: 200px; border-radius: 8px;" />
-    </a>
-    <p>
-      🎬 <b>오늘 뭐 볼까?</b> 기분 기반 영화 추천 웹앱<br/>
-      개발 기간: 2025.05 ~ 2025.05
-    </p>
-  </div>
-
-  <div style="width: 45%; text-align: center;">
-    <a href="https://github.com/changi123/study">
-      <img src="https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c" alt="영어 공부 프로그램" style="width: 100%; max-width: 200px; border-radius: 8px;" />
-    </a>
-    <p>
-      Spring + Mybatis + 영어 공부 프로그램<br/>
-      개발 기간: 2025.01 ~ 2025.02
-    </p>
-  </div>
-
-  <div style="width: 45%; text-align: center;">
-    <a href="https://github.com/changi123/isfin-app">
-      <img src="https://github.com/user-attachments/assets/c1542b8d-970b-49ad-889e-ea57b15ec895" alt="Isfin 앱" style="width: 100%; max-width: 150px; border-radius: 8px;" />
-    </a>
-    <p>
-      Isfin -> React Native 앱 변환<br/>
-      개발 기간: 2024.11 ~ 2024.12
-    </p>
-  </div>
-
-  <div style="width: 45%; text-align: center;">
-    <a href="https://github.com/I-Sfin">
-      <img src="https://avatars.githubusercontent.com/u/157471821?s=200&v=4" alt="I-Sfin 카드" style="width: 100%; max-width: 150px; border-radius: 8px;" />
-    </a>
-    <p>
-      아이의 경제교육을 위한 카드 I-Sfin<br/>
-      개발 기간: 2024.01 ~ 2024.02
-    </p>
-  </div>
-
-  <div style="width: 45%; text-align: center;">
-    <a href="https://github.com/changi123/9dorak">
-      <img src="https://github.com/changi123/changi123/assets/133079671/94865e16-3f42-40e0-ad6f-2195c6b7827a" alt="9dorak" style="width: 100%; max-width: 150px; border-radius: 8px;" />
-    </a>
-    <p>
-      구도락 서비스 (9일의 약속)<br/>
-      개발 기간: 2023.11 ~ 2024.01
-    </p>
-  </div>
-
-  <div style="width: 45%; text-align: center;">
-    <a href="https://github.com/changi123/JSP-Servlet_Project">
-      <img src="https://play-lh.googleusercontent.com/_gp-eWsqbTR5GvMXnHCIxEazoLPQSlHY4Uv-ZQln0jYsUSRReQb_fzpNwKbhd82R6-4=w240-h480-rw" alt="번개장터 클론" style="width: 100%; max-width: 150px; border-radius: 8px;" />
-    </a>
-    <p>
-      번개장터 클론 (JSP / Servlet)<br/>
-      개발 기간: 2023.05 ~ 2023.06
-    </p>
-  </div>
-
-  <div style="width: 45%; text-align: center; margin: 0 auto;">
-    <a href="https://velog.io/@changi_gg/posts">
-      <img src="https://github.com/changi123/changi123/assets/133079671/85833525-f679-4dc1-9a75-662fe622a4e0" alt="velog" style="width: 100%; max-width: 150px; border-radius: 8px;" />
-    </a>
-    <p>
-      velog 기록<br/>
-      알고리즘 문제풀이 / 공부 정리
-    </p>
-  </div>
-
-</div>
+| 프로젝트 | 프로젝트 |
+| --- | --- |
+| [![ViewPick](https://github.com/user-attachments/assets/d1077025-470f-4978-ba9b-7c278f996237)](https://github.com/changi123/viewpick)  
+🎬 오늘 뭐 볼까? 영화 추천 웹앱  
+개발 기간: 2025.05 | [![영어공부](https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c)](https://github.com/changi123/study)  
+Spring + Mybatis 영어 공부 프로그램  
+개발 기간: 2025.01 ~ 2025.02 |
+| [![Isfin 앱](https://github.com/user-attachments/assets/c1542b8d-970b-49ad-889e-ea57b15ec895)](https://github.com/changi123/isfin-app)  
+Isfin 앱 (React Native 변환)  
+개발 기간: 2024.11 ~ 2024.12 | [![I-Sfin 카드](https://avatars.githubusercontent.com/u/157471821?s=200&v=4)](https://github.com/I-Sfin)  
+아이 경제교육 카드 I-Sfin  
+개발 기간: 2024.01 ~ 2024.02 |
+| [![9dorak](https://github.com/changi123/changi123/assets/133079671/94865e16-3f42-40e0-ad6f-2195c6b7827a)](https://github.com/changi123/9dorak)  
+9일의 약속, 구도락 서비스  
+개발 기간: 2023.11 ~ 2024.01 | [![번개장터 클론](https://play-lh.googleusercontent.com/_gp-eWsqbTR5GvMXnHCIxEazoLPQSlHY4Uv-ZQln0jYsUSRReQb_fzpNwKbhd82R6-4=w240-h480-rw)](https://github.com/changi123/JSP-Servlet_Project)  
+번개장터 클론 (JSP / Servlet)  
+개발 기간: 2023.05 ~ 2023.06 |
+| [![velog](https://github.com/changi123/changi123/assets/133079671/85833525-f679-4dc1-9a75-662fe622a4e0)](https://velog.io/@changi_gg/posts)  
+velog 기록: 알고리즘 문제풀이 / 공부 정리 | |
