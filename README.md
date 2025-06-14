@@ -120,8 +120,8 @@
 <b>아이의 경제교육 카드 - I-Sfin</b><br/>
 개발 기간: 2024.01 ~ 2024.02  
 담당  
-- **로그인 / 회원가입 Back-end AND Front-end 기능 구현**  
-- **마이페이지 Back-end AND Front-end 기능 구현**  
+- 로그인 / 회원가입 Back-end AND Front-end 기능 구현 
+- 마이페이지 Back-end AND Front-end 기능 구현
 - **부모가 만드는 오늘의 미션 구현 및 카드 리워드 지급 Back-end AND Front-end 기능 구현**
 
 ---
