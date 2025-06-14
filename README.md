@@ -76,78 +76,80 @@
 
 --- 
 
-## 프로젝트
+## 📌 프로젝트
 
-> ✅ **프로젝트 이미지를 클릭하면 상세 GitHub 저장소로 이동**
-## 프로젝트
+<div align="center">
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/changi123/grow5">
-        <img src="https://github.com/user-attachments/assets/846ea1fa-6706-41c3-8995-620fedd83667" width="150" height="150" /><br/>
+    <td align="center" width="200" height="200">
+      <a href="https://github.com/changi123/grow5" target="_blank">
+        <img src="https://github.com/user-attachments/assets/846ea1fa-6706-41c3-8995-620fedd83667" width="120" height="120"><br/>
         <b>Grow5</b>
-      </a><br/>
-      🎬 5분 투자형 지식 피드<br/>
-      개발 기간: 2025.06 ~ 2025.06
+      </a>
+      <br/>🎯 5분 투자형 지식 피드<br/>
+      📅 2025.06 ~ 2025.06
     </td>
-    <td align="center">
-      <a href="https://github.com/changi123/viewpick">
-        <img src="https://github.com/user-attachments/assets/d1077025-470f-4978-ba9b-7c278f996237" width="150" height="150" /><br/>
+    <td align="center" width="200" height="200">
+      <a href="https://github.com/changi123/viewpick" target="_blank">
+        <img src="https://github.com/user-attachments/assets/d1077025-470f-4978-ba9b-7c278f996237" width="120" height="120"><br/>
         <b>ViewPick</b>
-      </a><br/>
-      🎬 오늘 뭐 볼까? 영화 추천<br/>
-      개발 기간: 2025.05 ~ 2025.05
+      </a>
+      <br/>🎬 오늘 뭐 볼까?<br/>
+      📅 2025.05 ~ 2025.05
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/changi123/study">
-        <img src="https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c" width="150" height="150" /><br/>
-        <b>영어 공부 프로그램</b>
-      </a><br/>
-      Spring + Mybatis<br/>
-      개발 기간: 2025.01 ~ 2025.02
+    <td align="center" width="200" height="200">
+      <a href="https://github.com/changi123/study" target="_blank">
+        <img src="https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c" width="120" height="120"><br/>
+        <b>Study</b>
+      </a>
+      <br/>Spring + Mybatis 영어 학습<br/>
+      📅 2025.01 ~ 2025.02
     </td>
-    <td align="center">
-      <a href="https://github.com/changi123/isfin-app">
-        <img src="https://github.com/user-attachments/assets/c1542b8d-970b-49ad-889e-ea57b15ec895" width="150" height="150" /><br/>
+    <td align="center" width="200" height="200">
+      <a href="https://github.com/changi123/isfin-app" target="_blank">
+        <img src="https://github.com/user-attachments/assets/c1542b8d-970b-49ad-889e-ea57b15ec895" width="100" height="100"><br/>
         <b>Isfin App</b>
-      </a><br/>
-      React Native 앱 변환<br/>
-      개발 기간: 2024.11 ~ 2024.12
+      </a>
+      <br/>React Native 앱 변환<br/>
+      📅 2024.11 ~ 2024.12
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/I-Sfin">
-        <img src="https://avatars.githubusercontent.com/u/157471821?s=200&v=4" width="150" height="150" /><br/>
+    <td align="center" width="200" height="200">
+      <a href="https://github.com/I-Sfin" target="_blank">
+        <img src="https://avatars.githubusercontent.com/u/157471821?s=200&v=4" width="120" height="120"><br/>
         <b>I-Sfin</b>
-      </a><br/>
-      SpringBoot / React<br/>
-      개발 기간: 2024.01 ~ 2024.02
+      </a>
+      <br/>아이 경제교육 카드<br/>
+      📅 2024.01 ~ 2024.02
     </td>
-    <td align="center">
-      <a href="https://github.com/changi123/9dorak">
-        <img src="https://github.com/changi123/changi123/assets/133079671/94865e16-3f42-40e0-ad6f-2195c6b7827a" width="150" height="150" /><br/>
-        <b>9도락</b>
-      </a><br/>
-      SpringFramework / Mybatis<br/>
-      개발 기간: 2023.11 ~ 2024.01
+    <td align="center" width="200" height="200">
+      <a href="https://github.com/changi123/9dorak" target="_blank">
+        <img src="https://github.com/changi123/changi123/assets/133079671/94865e16-3f42-40e0-ad6f-2195c6b7827a" width="120" height="120"><br/>
+        <b>9Dorak</b>
+      </a>
+      <br/>구도락 서비스<br/>
+      📅 2023.11 ~ 2024.01
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="200" height="200">
+      <a href="https://github.com/changi123/JSP-Servlet_Project" target="_blank">
+        <img src="https://play-lh.googleusercontent.com/_gp-eWsqbTR5GvMXnHCIxEazoLPQSlHY4Uv-ZQln0jYsUSRReQb_fzpNwKbhd82R6-4=w240-h480-rw" width="100" height="100"><br/>
+        <b>번개장터 클론</b>
+      </a>
+      <br/>JSP / Servlet 기반<br/>
+      📅 2023.05 ~ 2023.06
     </td>
   </tr>
 
-  <tr>
-    <td align="center">
-      <a href="https://github.com/changi123/JSP-Servlet_Project">
-        <img src="https://play-lh.googleusercontent.com/_gp-eWsqbTR5GvMXnHCIxEazoLPQSlHY4Uv-ZQln0jYsUSRReQb_fzpNwKbhd82R6-4=w240-h480-rw" width="150" height="150" /><br/>
-        <b>번개장터 Clone</b>
-      </a><br/>
-      JSP / Servlet<br/>
-      개발 기간: 2023.05 ~ 2023.06
-    </td>
-  </tr>
 </table>
+
+</div>
+
 
 
 ---
