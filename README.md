@@ -82,6 +82,7 @@
   <img src="https://github.com/user-attachments/assets/846ea1fa-6706-41c3-8995-620fedd83667" width="120" height="120">
 </a><br/>
 <b>🎯 5분 투자형 지식 피드 - Grow5</b><br/>
+<b>개인 프로젝트</b><br/>
 개발 기간: 2025.06 ~ 2025.06
 
 ---
@@ -91,6 +92,7 @@
   <img src="https://github.com/user-attachments/assets/d1077025-470f-4978-ba9b-7c278f996237" width="120" height="120">
 </a><br/>
 <b>🎬 오늘 뭐 볼까? 기분 기반 영화 추천 웹앱 - ViewPick</b><br/>
+<b>개인 프로젝트</b><br/>
 개발 기간: 2025.05 ~ 2025.05
 
 ---
@@ -100,6 +102,7 @@
   <img src="https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c" width="120" height="120">
 </a><br/>
 <b>Spring + Mybatis + 영어 공부 프로그램</b><br/>
+<b>개인 프로젝트</b><br/>
 개발 기간: 2025.01 ~ 2025.02
 
 ---
