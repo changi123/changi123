@@ -78,14 +78,14 @@
 
 <table>
   <tr>
-    <td align="center" style="border:1px solid #ddd; padding:10px; width:200px; vertical-align: top;">
+    <td align="center" style="border:1px solid #ddd; padding:10px; width:220px; vertical-align: top;">
       <a href="https://github.com/changi123/viewpick" style="text-decoration:none; color:black;">
         <img src="https://github.com/user-attachments/assets/d1077025-470f-4978-ba9b-7c278f996237" width="180" height="180" style="object-fit:cover; border-radius:8px;" />
         <p><strong>🎬 오늘 뭐 볼까? 영화 추천 웹앱 - ViewPick</strong></p>
         <p>개발 기간: 2025.05</p>
       </a>
     </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px; width:200px; vertical-align: top;">
+    <td align="center" style="border:1px solid #ddd; padding:10px; width:220px; vertical-align: top;">
       <a href="https://github.com/changi123/study" style="text-decoration:none; color:black;">
         <img src="https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c" width="180" height="180" style="object-fit:cover; border-radius:8px;" />
         <p><strong>Spring + Mybatis + 영어 공부 프로그램</strong></p>
@@ -94,18 +94,34 @@
     </td>
   </tr>
   <tr>
-    <td align="center" style="border:1px solid #ddd; padding:10px; width:200px; vertical-align: top;">
+    <td align="center" style="border:1px solid #ddd; padding:10px; width:220px; vertical-align: top;">
       <a href="https://github.com/changi123/isfin-app" style="text-decoration:none; color:black;">
         <img src="https://github.com/user-attachments/assets/c1542b8d-970b-49ad-889e-ea57b15ec895" width="180" height="180" style="object-fit:cover; border-radius:8px;" />
         <p><strong>React Native 기반 Isfin 앱 프로젝트</strong></p>
         <p>개발 기간: 2024.11 ~ 2024.12</p>
       </a>
     </td>
-    <td align="center" style="border:1px solid #ddd; padding:10px; width:200px; vertical-align: top;">
+    <td align="center" style="border:1px solid #ddd; padding:10px; width:220px; vertical-align: top;">
       <a href="https://github.com/I-Sfin" style="text-decoration:none; color:black;">
         <img src="https://avatars.githubusercontent.com/u/157471821?s=200&v=4" width="180" height="180" style="object-fit:cover; border-radius:8px;" />
         <p><strong>아이 경제교육 카드 I-Sfin</strong></p>
         <p>개발 기간: 2024.01 ~ 2024.02</p>
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" style="border:1px solid #ddd; padding:10px; width:220px; vertical-align: top;">
+      <a href="https://github.com/changi123/9dorak" style="text-decoration:none; color:black;">
+        <img src="https://github.com/changi123/changi123/assets/133079671/94865e16-3f42-40e0-ad6f-2195c6b7827a" width="180" height="180" style="object-fit:cover; border-radius:8px;" />
+        <p><strong>아이를 위한 9일의 약속, 구도락 서비스</strong></p>
+        <p>개발 기간: 2023.11 ~ 2024.01</p>
+      </a>
+    </td>
+    <td align="center" style="border:1px solid #ddd; padding:10px; width:220px; vertical-align: top;">
+      <a href="https://github.com/changi123/JSP-Servlet_Project" style="text-decoration:none; color:black;">
+        <img src="https://play-lh.googleusercontent.com/_gp-eWsqbTR5GvMXnHCIxEazoLPQSlHY4Uv-ZQln0jYsUSRReQb_fzpNwKbhd82R6-4=w240-h480-rw" width="180" height="180" style="object-fit:cover; border-radius:8px;" />
+        <p><strong>중고사이트 번개장터 카피 구현 (JSP/Servlet)</strong></p>
+        <p>개발 기간: 2023.05 ~ 2023.06</p>
       </a>
     </td>
   </tr>
