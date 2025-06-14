@@ -78,34 +78,34 @@
 
 <table>
   <tr>
-    <td align="center">
-      <a href="https://github.com/changi123/viewpick">
-        <img src="https://github.com/user-attachments/assets/d1077025-470f-4978-ba9b-7c278f996237" width="150" /><br/>
-        🎬 오늘 뭐 볼까? 기분 기반 영화 추천 웹앱 - ViewPick<br/>
-        개발 기간: 2025.05
+    <td align="center" style="border:1px solid #ddd; padding:10px; width:200px; vertical-align: top;">
+      <a href="https://github.com/changi123/viewpick" style="text-decoration:none; color:black;">
+        <img src="https://github.com/user-attachments/assets/d1077025-470f-4978-ba9b-7c278f996237" width="180" height="180" style="object-fit:cover; border-radius:8px;" />
+        <p><strong>🎬 오늘 뭐 볼까? 영화 추천 웹앱 - ViewPick</strong></p>
+        <p>개발 기간: 2025.05</p>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/changi123/study">
-        <img src="https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c" width="150" /><br/>
-        Spring + Mybatis + 영어 공부 프로그램<br/>
-        개발 기간: 2025.01 ~ 2025.02
+    <td align="center" style="border:1px solid #ddd; padding:10px; width:200px; vertical-align: top;">
+      <a href="https://github.com/changi123/study" style="text-decoration:none; color:black;">
+        <img src="https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c" width="180" height="180" style="object-fit:cover; border-radius:8px;" />
+        <p><strong>Spring + Mybatis + 영어 공부 프로그램</strong></p>
+        <p>개발 기간: 2025.01 ~ 2025.02</p>
       </a>
     </td>
   </tr>
   <tr>
-    <td align="center">
-      <a href="https://github.com/changi123/isfin-app">
-        <img src="https://github.com/user-attachments/assets/c1542b8d-970b-49ad-889e-ea57b15ec895" width="150" /><br/>
-        React Native 기반 Isfin 앱 프로젝트<br/>
-        개발 기간: 2024.11 ~ 2024.12
+    <td align="center" style="border:1px solid #ddd; padding:10px; width:200px; vertical-align: top;">
+      <a href="https://github.com/changi123/isfin-app" style="text-decoration:none; color:black;">
+        <img src="https://github.com/user-attachments/assets/c1542b8d-970b-49ad-889e-ea57b15ec895" width="180" height="180" style="object-fit:cover; border-radius:8px;" />
+        <p><strong>React Native 기반 Isfin 앱 프로젝트</strong></p>
+        <p>개발 기간: 2024.11 ~ 2024.12</p>
       </a>
     </td>
-    <td align="center">
-      <a href="https://github.com/I-Sfin">
-        <img src="https://avatars.githubusercontent.com/u/157471821?s=200&v=4" width="150" /><br/>
-        아이 경제교육 카드 I-Sfin<br/>
-        개발 기간: 2024.01 ~ 2024.02
+    <td align="center" style="border:1px solid #ddd; padding:10px; width:200px; vertical-align: top;">
+      <a href="https://github.com/I-Sfin" style="text-decoration:none; color:black;">
+        <img src="https://avatars.githubusercontent.com/u/157471821?s=200&v=4" width="180" height="180" style="object-fit:cover; border-radius:8px;" />
+        <p><strong>아이 경제교육 카드 I-Sfin</strong></p>
+        <p>개발 기간: 2024.01 ~ 2024.02</p>
       </a>
     </td>
   </tr>
