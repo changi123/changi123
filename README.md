@@ -76,97 +76,78 @@
 
 --- 
 
-## 프로젝트 
+## 프로젝트
 
-<a href="https://github.com/changi123/viewpick">
- <img src="https://github.com/user-attachments/assets/d1077025-470f-4978-ba9b-7c278f996237"  width="200" heigth = "200" /> 
-</a>
+<div style="display: flex; flex-wrap: wrap; gap: 30px; justify-content: center;">
 
-* ( 이미지 클릭 시 이동 )
-* 개인 프로젝트
-* 🎬 오늘 뭐 볼까? 기분 기반 영화 추천 웹앱 - ViewPick
-*  개발 기간 : 2025.05 ~ 2025.05
+  <div style="width: 45%; text-align: center;">
+    <a href="https://github.com/changi123/viewpick">
+      <img src="https://github.com/user-attachments/assets/d1077025-470f-4978-ba9b-7c278f996237" alt="ViewPick" style="width: 100%; max-width: 200px; border-radius: 8px;" />
+    </a>
+    <p>
+      🎬 <b>오늘 뭐 볼까?</b> 기분 기반 영화 추천 웹앱<br/>
+      개발 기간: 2025.05 ~ 2025.05
+    </p>
+  </div>
 
----
+  <div style="width: 45%; text-align: center;">
+    <a href="https://github.com/changi123/study">
+      <img src="https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c" alt="영어 공부 프로그램" style="width: 100%; max-width: 200px; border-radius: 8px;" />
+    </a>
+    <p>
+      Spring + Mybatis + 영어 공부 프로그램<br/>
+      개발 기간: 2025.01 ~ 2025.02
+    </p>
+  </div>
 
-<a href="https://github.com/changi123/study">
- <img src="https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c"  width="200" heigth = "200" /> 
-</a>
+  <div style="width: 45%; text-align: center;">
+    <a href="https://github.com/changi123/isfin-app">
+      <img src="https://github.com/user-attachments/assets/c1542b8d-970b-49ad-889e-ea57b15ec895" alt="Isfin 앱" style="width: 100%; max-width: 150px; border-radius: 8px;" />
+    </a>
+    <p>
+      Isfin -> React Native 앱 변환<br/>
+      개발 기간: 2024.11 ~ 2024.12
+    </p>
+  </div>
 
-* ( 이미지 클릭 시 이동 )
-* 개인 프로젝트
-* Spring + Mybatis + 영어 공부 프로그램 만들기
-*  개발 기간 : 2025.01 ~ 2025.02
-  
----
+  <div style="width: 45%; text-align: center;">
+    <a href="https://github.com/I-Sfin">
+      <img src="https://avatars.githubusercontent.com/u/157471821?s=200&v=4" alt="I-Sfin 카드" style="width: 100%; max-width: 150px; border-radius: 8px;" />
+    </a>
+    <p>
+      아이의 경제교육을 위한 카드 I-Sfin<br/>
+      개발 기간: 2024.01 ~ 2024.02
+    </p>
+  </div>
 
-<a href="https://github.com/changi123/isfin-app">
- <img src="https://github.com/user-attachments/assets/c1542b8d-970b-49ad-889e-ea57b15ec895"  width="100" heigth = "100" /> 
-</a>
+  <div style="width: 45%; text-align: center;">
+    <a href="https://github.com/changi123/9dorak">
+      <img src="https://github.com/changi123/changi123/assets/133079671/94865e16-3f42-40e0-ad6f-2195c6b7827a" alt="9dorak" style="width: 100%; max-width: 150px; border-radius: 8px;" />
+    </a>
+    <p>
+      구도락 서비스 (9일의 약속)<br/>
+      개발 기간: 2023.11 ~ 2024.01
+    </p>
+  </div>
 
-<br>
+  <div style="width: 45%; text-align: center;">
+    <a href="https://github.com/changi123/JSP-Servlet_Project">
+      <img src="https://play-lh.googleusercontent.com/_gp-eWsqbTR5GvMXnHCIxEazoLPQSlHY4Uv-ZQln0jYsUSRReQb_fzpNwKbhd82R6-4=w240-h480-rw" alt="번개장터 클론" style="width: 100%; max-width: 150px; border-radius: 8px;" />
+    </a>
+    <p>
+      번개장터 클론 (JSP / Servlet)<br/>
+      개발 기간: 2023.05 ~ 2023.06
+    </p>
+  </div>
 
-* ( 이미지 클릭 시 이동 )
-* 개인 프로젝트
-* 웹앱프로젝트 Isfin -> React native + Android Studio 활용해서 앱으로 변환하기
-* 개발 기간 : 2024.11 ~ 2024.12
+  <div style="width: 45%; text-align: center; margin: 0 auto;">
+    <a href="https://velog.io/@changi_gg/posts">
+      <img src="https://github.com/changi123/changi123/assets/133079671/85833525-f679-4dc1-9a75-662fe622a4e0" alt="velog" style="width: 100%; max-width: 150px; border-radius: 8px;" />
+    </a>
+    <p>
+      velog 기록<br/>
+      알고리즘 문제풀이 / 공부 정리
+    </p>
+  </div>
 
----
-
-<a href="https://github.com/I-Sfin">
- <img src="https://avatars.githubusercontent.com/u/157471821?s=200&v=4"  width="150" heigth = "150" /> 
-</a>
-
-<br>
-
-* ( 이미지 클릭 시 이동 )
-* 아이의 경제교육을 위한 카드 I-Sfin ( SpringBoot / React / MySQL / JPA )
-* 개발 기간: 2024.01 ~ 2024.02
-* 담당
-  * **로그인 / 회원가입 Back-end AND Front-end 기능 구현**
-  * **마이페이지 Back-end AND Front-end 기능 구현**
-  * **부모가 만드는 오늘의 미션 구현 및 카드 리워드 지급 Back-end AND Front-end 기능 구현**
-  
----
-
-<a href="https://github.com/changi123/9dorak">
-  <img src="https://github.com/changi123/changi123/assets/133079671/94865e16-3f42-40e0-ad6f-2195c6b7827a"  width="150" heigth = "150"  />
-</a>
-
-<br>
-
-* ( 이미지 클릭 시 이동 )
-* 아이를 위한 9일의 약속, 구도락 서비스 ( SpringFramework / Oracle / Mybatis)
-* 개발 기간: 2023.11 ~ 2024.01
-* 담당
-  * **로그인 / 회원가입 Back-end AND Front-end 기능 구현**
-  * **마이페이지 Back-end AND Front-end 기능 구현**
-  * **다음 openAPI를 활용하여 배송지 등록 및 관리 구현**
-
----
-
-<a href="https://github.com/changi123/JSP-Servlet_Project">
-  <img src="https://play-lh.googleusercontent.com/_gp-eWsqbTR5GvMXnHCIxEazoLPQSlHY4Uv-ZQln0jYsUSRReQb_fzpNwKbhd82R6-4=w240-h480-rw"  width="150" heigth = "150"/>
-</a>
-
-<br>
-
-* ( 이미지 클릭 시 이동 )
-* 중고사이트 번개장터 카피 구현 ( JSP / Servlet )
-* 개발 기간: 2023.05 ~ 2023.06
-* 담당
-  * **로그인 / 회원가입 Back-end 기능 구현**
-  * **내 상점 관리 기능 구현**
-  * **상품 판매하기 기능 구현**
-
----
-
-<a href="https://velog.io/@changi_gg/posts">
-  <img src="https://github.com/changi123/changi123/assets/133079671/85833525-f679-4dc1-9a75-662fe622a4e0"  width="150" heigth = "150"/>
-</a>
-
-<br>
-
-* ( 이미지 클릭 시 이동 )
-* velog 기록 -> https://velog.io/@changi_gg/posts
-* 알고리즘 문제풀이 / 공부 정리
+</div>
