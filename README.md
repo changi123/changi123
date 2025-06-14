@@ -75,89 +75,87 @@
 
 
 --- 
-
 ## 📌 프로젝트
-
-## 📌 프로젝트
-
-<div align="center">
 
 <!-- Grow5 -->
 <a href="https://github.com/changi123/grow5" target="_blank">
   <img src="https://github.com/user-attachments/assets/846ea1fa-6706-41c3-8995-620fedd83667" width="120" height="120">
-</a>
-<br/>
+</a><br/>
 <b>🎯 5분 투자형 지식 피드 - Grow5</b><br/>
 개발 기간: 2025.06 ~ 2025.06
 
-<br><br>
+---
 
 <!-- ViewPick -->
 <a href="https://github.com/changi123/viewpick" target="_blank">
   <img src="https://github.com/user-attachments/assets/d1077025-470f-4978-ba9b-7c278f996237" width="120" height="120">
-</a>
-<br/>
+</a><br/>
 <b>🎬 오늘 뭐 볼까? 기분 기반 영화 추천 웹앱 - ViewPick</b><br/>
 개발 기간: 2025.05 ~ 2025.05
 
-<br><br>
+---
 
 <!-- Study -->
 <a href="https://github.com/changi123/study" target="_blank">
   <img src="https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c" width="120" height="120">
-</a>
-<br/>
+</a><br/>
 <b>Spring + Mybatis + 영어 공부 프로그램</b><br/>
 개발 기간: 2025.01 ~ 2025.02
 
-<br><br>
+---
 
 <!-- Isfin App -->
 <a href="https://github.com/changi123/isfin-app" target="_blank">
   <img src="https://github.com/user-attachments/assets/c1542b8d-970b-49ad-889e-ea57b15ec895" width="100" height="100">
-</a>
-<br/>
+</a><br/>
 <b>웹앱 프로젝트 Isfin (React Native 변환)</b><br/>
 개발 기간: 2024.11 ~ 2024.12
 
-<br><br>
+---
 
 <!-- I-Sfin -->
 <a href="https://github.com/I-Sfin" target="_blank">
   <img src="https://avatars.githubusercontent.com/u/157471821?s=200&v=4" width="120" height="120">
-</a>
-<br/>
+</a><br/>
 <b>아이의 경제교육 카드 - I-Sfin</b><br/>
-개발 기간: 2024.01 ~ 2024.02
+개발 기간: 2024.01 ~ 2024.02  
+담당  
+- **로그인 / 회원가입 Back-end AND Front-end 기능 구현**  
+- **마이페이지 Back-end AND Front-end 기능 구현**  
+- **부모가 만드는 오늘의 미션 구현 및 카드 리워드 지급 Back-end AND Front-end 기능 구현**
 
-<br><br>
+---
 
 <!-- 9Dorak -->
 <a href="https://github.com/changi123/9dorak" target="_blank">
   <img src="https://github.com/changi123/changi123/assets/133079671/94865e16-3f42-40e0-ad6f-2195c6b7827a" width="120" height="120">
-</a>
-<br/>
+</a><br/>
 <b>아이를 위한 9일의 약속 - 구도락</b><br/>
-개발 기간: 2023.11 ~ 2024.01
+개발 기간: 2023.11 ~ 2024.01  
+담당  
+- **로그인 / 회원가입 Back-end AND Front-end 기능 구현**  
+- **마이페이지 Back-end AND Front-end 기능 구현**  
+- **다음 openAPI를 활용하여 배송지 등록 및 관리 구현**
 
-<br><br>
+---
 
 <!-- JSP Servlet -->
 <a href="https://github.com/changi123/JSP-Servlet_Project" target="_blank">
   <img src="https://play-lh.googleusercontent.com/_gp-eWsqbTR5GvMXnHCIxEazoLPQSlHY4Uv-ZQln0jYsUSRReQb_fzpNwKbhd82R6-4=w240-h480-rw" width="100" height="100">
-</a>
-<br/>
+</a><br/>
 <b>중고사이트 번개장터 클론 (JSP/Servlet)</b><br/>
-개발 기간: 2023.05 ~ 2023.06
+개발 기간: 2023.05 ~ 2023.06  
+담당  
+- **로그인 / 회원가입 Back-end 기능 구현**  
+- **내 상점 관리 기능 구현**  
+- **상품 판매하기 기능 구현**
 
-<br><br>
+---
 
 <!-- Velog -->
 <a href="https://velog.io/@changi_gg/posts" target="_blank">
   <img src="https://github.com/changi123/changi123/assets/133079671/85833525-f679-4dc1-9a75-662fe622a4e0" width="120" height="120">
-</a>
-<br/>
+</a><br/>
 <b>Velog 기록 (알고리즘/공부정리)</b><br/>
 Velog 링크 이동
 
-</div>
