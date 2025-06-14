@@ -76,19 +76,40 @@
 
 ## 프로젝트 
 
-| <a href="https://github.com/changi123/viewpick"><img src="https://github.com/user-attachments/assets/d1077025-470f-4978-ba9b-7c278f996237" width="200" /></a> | <a href="https://github.com/changi123/study"><img src="https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c" width="200" /></a> | <a href="https://github.com/changi123/isfin-app"><img src="https://github.com/user-attachments/assets/c1542b8d-970b-49ad-889e-ea57b15ec895" width="100" /></a> |
-| --- | --- | --- |
-| ( 이미지 클릭 시 이동 )<br> 개인 프로젝트<br> 🎬 오늘 뭐 볼까? 기분 기반 영화 추천 웹앱 - ViewPick<br> 개발 기간 : 2025.05 ~ 2025.05 | ( 이미지 클릭 시 이동 )<br> 개인 프로젝트<br> Spring + Mybatis + 영어 공부 프로그램 만들기<br> 개발 기간 : 2025.01 ~ 2025.02 | ( 이미지 클릭 시 이동 )<br> 개인 프로젝트<br> 웹앱프로젝트 Isfin -> React native + Android Studio 활용해서 앱으로 변환하기<br> 개발 기간 : 2024.11 ~ 2024.12 |
-
-| <a href="https://github.com/I-Sfin"><img src="https://avatars.githubusercontent.com/u/157471821?s=200&v=4" width="150" /></a> | <a href="https://github.com/changi123/9dorak"><img src="https://github.com/changi123/changi123/assets/133079671/94865e16-3f42-40e0-ad6f-2195c6b7827a" width="150" /></a> | <a href="https://github.com/changi123/JSP-Servlet_Project"><img src="https://play-lh.googleusercontent.com/_gp-eWsqbTR5GvMXnHCIxEazoLPQSlHY4Uv-ZQln0jYsUSRReQb_fzpNwKbhd82R6-4=w240-h480-rw" width="150" /></a> |
-| --- | --- | --- |
-| ( 이미지 클릭 시 이동 )<br> 아이의 경제교육을 위한 카드 I-Sfin ( SpringBoot / React / MySQL / JPA )<br> 개발 기간: 2024.01 ~ 2024.02<br> 담당<br> - **로그인 / 회원가입 Back-end AND Front-end 기능 구현**<br> - **마이페이지 Back-end AND Front-end 기능 구현**<br> - **부모가 만드는 오늘의 미션 구현 및 카드 리워드 지급 Back-end AND Front-end 기능 구현** | ( 이미지 클릭 시 이동 )<br> 아이를 위한 9일의 약속, 구도락 서비스 ( SpringFramework / Oracle / Mybatis)<br> 개발 기간: 2023.11 ~ 2024.01<br> 담당<br> - **로그인 / 회원가입 Back-end AND Front-end 기능 구현**<br> - **마이페이지 Back-end AND Front-end 기능 구현**<br> - **다음 openAPI를 활용하여 배송지 등록 및 관리 구현** | ( 이미지 클릭 시 이동 )<br> 중고사이트 번개장터 카피 구현 ( JSP / Servlet )<br> 개발 기간: 2023.05 ~ 2023.06<br> 담당<br> - **로그인 / 회원가입 Back-end 기능 구현**<br> - **내 상점 관리 기능 구현**<br> - **상품 판매하기 기능 구현** |
-
-| <a href="https://velog.io/@changi_gg/posts"><img src="https://github.com/changi123/changi123/assets/133079671/85833525-f679-4dc1-9a75-662fe622a4e0" width="150" /></a> | &nbsp; | &nbsp; |
-| --- | --- | --- |
-| ( 이미지 클릭 시 이동 )<br> 블로그 링크 | &nbsp; | &nbsp; |
-
-<br>
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/changi123/viewpick">
+        <img src="https://github.com/user-attachments/assets/d1077025-470f-4978-ba9b-7c278f996237" width="150" /><br/>
+        🎬 오늘 뭐 볼까? 기분 기반 영화 추천 웹앱 - ViewPick<br/>
+        개발 기간: 2025.05
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/changi123/study">
+        <img src="https://github.com/user-attachments/assets/1c84e964-95f1-4355-8ed1-6c7021efbc9c" width="150" /><br/>
+        Spring + Mybatis + 영어 공부 프로그램<br/>
+        개발 기간: 2025.01 ~ 2025.02
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/changi123/isfin-app">
+        <img src="https://github.com/user-attachments/assets/c1542b8d-970b-49ad-889e-ea57b15ec895" width="150" /><br/>
+        React Native 기반 Isfin 앱 프로젝트<br/>
+        개발 기간: 2024.11 ~ 2024.12
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/I-Sfin">
+        <img src="https://avatars.githubusercontent.com/u/157471821?s=200&v=4" width="150" /><br/>
+        아이 경제교육 카드 I-Sfin<br/>
+        개발 기간: 2024.01 ~ 2024.02
+      </a>
+    </td>
+  </tr>
+</table>
 
 * ( 이미지 클릭 시 이동 )
 * velog 기록 -> https://velog.io/@changi_gg/posts
