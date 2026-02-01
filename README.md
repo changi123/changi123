@@ -30,7 +30,7 @@
 ### 🔥 Top Project: SubTrack (구독 가계부)
 - **URL**: [https://subtrack.kr](https://subtrack.kr)
 - **Tech**: React, Firebase, Custom Domain (HTTPS), Google OAuth
-- **Insight**: 1인 개발로서 기획부터 도메인 연결까지 **단기간에 완성하여 운영 중**인 실서비스입니다.
+- **Insight**: 1인 개발로서 기획부터 도메인 연결까지 **운영 중**인 실서비스입니다.
 
 ---
 
