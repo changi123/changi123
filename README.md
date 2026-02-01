@@ -57,7 +57,7 @@
 
 ### ✍️ Continuous Learning
 - **Velog**: [알고리즘 및 개발 트러블슈팅 기록](https://velog.io/@changi_gg/posts)
-- **Baekjoon**: [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hcghcg17)](https://solved.ac/hcghcg17)
+- **Baekjoon**: <br> [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=hcghcg17)](https://solved.ac/hcghcg17)
 
 ---
 
