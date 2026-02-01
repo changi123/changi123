@@ -35,14 +35,12 @@
 ---
 
 ### 📂 Selected Archive (Academic & Early Projects)
-<details>
-<summary><b>학원 및 초기 프로젝트 상세보기 (클릭)</b></summary>
+학원 및 초기 프로젝트 (클릭)</b>
 
 * **🥇 I-Sfin (최우수상)**: 아이 경제 교육 서비스 (Spring Boot, 회원가입/마이페이지 B/F 전담)
 * **9Dorak (구도락)**: **Kakao/Daum OpenAPI** 연동 배송지 관리 시스템 구축
 * **번개장터 클론**: JSP/Servlet 기반 중고 거래 플랫폼 기능 구현
 * **Study Program**: Spring + Mybatis 기반 영어 공부 프로그램 개발
-</details>
 
 ---
 
