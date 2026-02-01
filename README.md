@@ -1,6 +1,5 @@
 # 👨🏻‍💻 Hong Changi
-> **Solving Real-World Problems with Code.** > 현재 ITSM 솔루션 기업(STEG)에서 솔루션 커스터마이징 및 백엔드 개발을 담당하고 있습니다.  
-> 퇴근 후에는 1인 개발자로 활동하며, 사용자 경험을 개선하는 서비스를 빠르게 기획하고 출시합니다.
+> **ITSM Solution Developer @STEG | Solving Problems with Code** > 현재 ITSM 솔루션 기업(STEG)에서 솔루션 커스터마이징 및 기능 고도화를 담당하고 있습니다.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -34,7 +33,7 @@
   - 구글 OAuth 기반 간편 로그인 및 보안성 확보
   - 결제일 기반 D-Day 정렬 알고리즘 구현
   - 인앱 브라우저 호환성 및 사용자 진입 장벽 최적화
-- **Insight**: 기획부터 도메인 연결, 배포까지 **3일 만에 완성하여 실제 운영 중**인 프로젝트입니다.
+- **Insight**: 기획부터 도메인 연결, 배포까지 **실제 운영 중**인 프로젝트입니다.
 
 ---
 
