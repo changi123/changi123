@@ -1,5 +1,7 @@
 # 👨🏻‍💻 Hong Changi
-> **ITSM Solution Developer @STEG | Solving Problems with Code** > 현재 ITSM 솔루션 기업(STEG)에서 솔루션 커스터마이징 및 기능 고도화를 담당하고 있습니다.
+> **ITSM Solution Developer @STEG | Solving Problems with Code**
+> 현재 ITSM 솔루션 기업(STEG)에서 솔루션 커스터마이징 및 기능 고도화를 담당하고 있습니다.  
+> 퇴근 후에는 사용자 경험을 개선하는 서비스를 빠르게 기획하고 출시하는 1인 개발자로 활동합니다.
 
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white" />
@@ -16,34 +18,39 @@
 **Backend & Infrastructure**
 - **Java / Spring Boot**: ITSM 솔루션 고도화 및 비즈니스 로직 설계
 - **SQL (Oracle, MySQL)**: 데이터 모델링 및 쿼리 최적화
-- **Firebase**: 서버리스 아키텍처 기반의 빠른 MVP 구축 및 배포 (Auth, Hosting, Firestore)
+- **Firebase**: 서버리스 아키텍처 기반의 빠른 MVP 구축 및 배포
 
 **Frontend**
 - **React / JavaScript**: 사용자 친화적인 웹 인터페이스 구현
-- **React Native**: 크로스 플랫폼 앱 개발 및 MVP 출시 경험
+- **Legacy/Template**: **Thymeleaf**, **jQuery**, JSP/Servlet 활용 경험
+- **Mobile**: **React Native**를 이용한 크로스 플랫폼 앱 개발 및 MVP 개발
 
 ---
 
 ### 🔥 Top Project: SubTrack (구독 가계부)
-> **"흩어져 있는 내 구독료, 결제 전 미리 알려주면 어떨까?"**라는 질문에서 시작된 서비스입니다.
-
 - **URL**: [https://subtrack.kr](https://subtrack.kr)
-- **Tech**: React, Firebase (Auth/Hosting/Firestore), Custom Domain (HTTPS)
-- **Key Features**: 
-  - 구글 OAuth 기반 간편 로그인 및 보안성 확보
-  - 결제일 기반 D-Day 정렬 알고리즘 구현
-  - 인앱 브라우저 호환성 및 사용자 진입 장벽 최적화
-- **Insight**: 기획부터 도메인 연결, 배포까지 **실제 운영 중**인 프로젝트입니다.
+- **Tech**: React, Firebase, Custom Domain (HTTPS), Google OAuth
+- **Key Insight**: 1인 개발로서 기획부터 도메인 연결까지 **단기간에 완성하여 운영 중**인 실서비스입니다.
+
+---
+
+### 📂 Selected Archive (Academic & Early Projects)
+<details>
+<summary><b>학원 및 초기 프로젝트 상세보기 (클릭)</b></summary>
+
+* **🥇 I-Sfin (최우수상)**: 아이 경제 교육 서비스 (Spring Boot, 회원가입/마이페이지 B/F 전담)
+* **9Dorak (구도락)**: **Kakao/Daum OpenAPI** 연동 배송지 관리 시스템 구축
+* **번개장터 클론**: JSP/Servlet 기반 중고 거래 플랫폼 기능 구현
+* **Study Program**: Spring + Mybatis 기반 영어 공부 프로그램 개발
+</details>
 
 ---
 
 ### 📊 Experience & Education
 - **STEG (에스티이지)** | 2024.02 - 현재
   - ITSM 솔루션 커스터마이징 및 기능 고도화 개발자
-- **동국시스템즈** | 2024.08 - 2024.10
-  - 개발 인턴
-- **신한 DS 금융 SW 아카데미** | 2023.08 - 2024.02
-  - **🥇 프로젝트 발표회 최우수상 수상**
+- **동국시스템즈** | 2024.08 - 2024.10 | 개발 인턴
+- **신한 DS 금융 SW 아카데미** | 2023.08 - 2024.02 | **최우수상 수상**
 - **쌍용교육센터** | Java-Full-Stack 과정 수료 (2023.01 - 2023.07)
 
 ---
