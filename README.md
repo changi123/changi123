@@ -1,4 +1,4 @@
-# 👨🏻‍💻 Yang Yugyeong (楊諭景)
+# 👨🏻‍💻 Hong Changi
 > **Solving Real-World Problems with Code.** > 현재 ITSM 솔루션 기업(STEG)에서 솔루션 커스터마이징 및 백엔드 개발을 담당하고 있습니다.  
 > 퇴근 후에는 1인 개발자로 활동하며, 사용자 경험을 개선하는 서비스를 빠르게 기획하고 출시합니다.
 
