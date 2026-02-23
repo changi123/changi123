@@ -27,12 +27,10 @@
 
 ---
 
-###🔥 Top Project: Hameday (커플 프리미엄 다이어리)
-URL: https://hameday.kr]
-
-Tech: React, Firebase Hosting, PWA, PayApp API]
-
-Insight: 1인 개발로서 결제 시스템 연동 및 도메인 연결을 마친 운영 중인 커플 전용 웹 서비스입니다.]
+### 🔥 Top Project: Hameday (커플 프리미엄 다이어리)
+- **URL**: [https://hameday.kr](https://hameday.kr)
+- **Tech**: React, Firebase Hosting, PWA, PayApp API
+- **Insight**: 1인 개발로서 결제 시스템 연동 및 도메인 연결을 마친 **운영 중**인 커플 전용 웹 서비스입니다.
 
 ### 🔥 Top Project: SubTrack (구독 가계부)
 - **URL**: [https://subtrack.kr](https://subtrack.kr)
