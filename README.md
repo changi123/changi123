@@ -27,11 +27,19 @@
 
 ---
 
-### 🔥 Top Project: Hameday (커플 프리미엄 다이어리)
-- **Insight**: 커플 데이터 공유 및 기록용 웹 애플리케이션입니다.
+### 🔥 Top Project: [Hameday (커플 프리미엄 다이어리)](https://hameday.kr/)
+- **Insight**: 커플의 파편화된 일상과 소중한 순간들을 고감도 '매거진' 레이아웃으로 기록하고 실시간 공유하는 프라이빗 아카이빙 웹 애플리케이션입니다.
+- **Core Feature**: 기념일 자동 계산, 둘만의 버킷리스트 관리, 감정 공유 기능을 제공하며, Vanilla CSS 기반의 Glassmorphism UI와 Framer Motion을 활용한 고성능 애니메이션으로 프리미엄한 사용자 경험을 구현했습니다.
+- **Problem Solving**: i18next를 통한 완전한 다국어 대응과 Paddle 글로벌 결제 시스템 연동으로 서비스 확장성을 확보했으며, Node.js 기반의 커스텀 하네스 스크립트를 통해 엄격한 코드 표준 및 보안 검증을 수행하여 데이터 프라이버시를 강화했습니다.
+- **Tech Stack**: Tech Stack: React (Vite), Firebase, Vanilla CSS, Framer Motion, i18next, JavaScript.
 
-### 🔥 Top Project: SubTrack (구독 가계부)
-- **Insight**: 정기 구독 결제 정보의 효율적인 관리 및 계산 로직을 구현한 웹 애플리케이션입니다.
+
+### 🔥 Top Project: [SubTrack (정기결제 알림 비서)](https://subtrack.kr/)
+
+- **Insight**: Gmail 기반 정기결제 메일을 탐지하여 사용자의 구독 서비스와 월별 고정지출을 한눈에 관리할 수 있도록 돕는 웹 애플리케이션입니다.
+- **Core Feature**: 결제/영수증/구독 갱신 메일을 분석해 정기결제 가능성이 높은 항목을 자동 추출하고, 사용자가 직접 구독 내역을 관리할 수 있도록 구현했습니다.
+- **Problem Solving**: 정기결제 키워드, 제외 키워드, 금액/주기 정보 등을 조합해 단순 메일 검색보다 정확한 탐지 흐름을 설계했습니다.
+- **Tech Stack**: React, Firebase, Gmail API, JavaScript
 
 ---
 
