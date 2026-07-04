@@ -65,5 +65,4 @@
 ---
 
 ### 📫 Contact & Social
-- **Email**: [hcghcg17@naver.com](mailto:hcghcg17@naver.com)
-- **Instagram**: [@changi_gg](https://www.instagram.com/changi_gg/)
+- **Email**: [hcghcg17@gmail.com](mailto:hcghcg17@gmail.com)
